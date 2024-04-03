@@ -1,0 +1,61 @@
+StudyTime,PreviousTestScore,Result,Parent_Education
+5,87,High,Masters
+3,82,Fail,College
+7,98,High,Not Educated
+6,74,Low,Not Educated
+5,99,High,Bachelors
+1,47,Fail,Masters
+9,88,High,High School
+5,94,High,High School
+10,99,High,High School
+8,93,High,High School
+4,58,Low,College
+10,90,High,High School
+6,78,High,Masters
+3,65,Fail,Not Educated
+8,86,High,Masters
+6,75,High,Not Educated
+10,91,High,High School
+10,95,High,Masters
+9,89,High,High School
+2,67,Fail,Masters
+7,97,High,High School
+1,37,Fail,Bachelors
+9,90,High,College
+8,87,High,Bachelors
+8,91,High,College
+1,45,Fail,Not Educated
+9,96,High,College
+5,96,High,High School
+4,56,Low,College
+3,70,Fail,Masters
+3,69,Fail,College
+3,73,Fail,Masters
+10,99,High,High School
+9,93,High,College
+5,89,High,Bachelors
+2,79,Fail,Masters
+6,82,High,Masters
+9,91,High,High School
+9,91,High,College
+8,86,High,Bachelors
+10,95,High,Bachelors
+2,65,Fail,College
+6,84,High,High School
+5,92,High,High School
+10,93,High,Masters
+8,95,High,High School
+6,79,High,Not Educated
+4,64,Low,Not Educated
+9,96,High,Masters
+1,43,Fail,Bachelors
+10,96,High,Bachelors
+6,89,High,High School
+5,93,High,College
+3,83,Fail,College
+10,99,High,Bachelors
+4,65,Low,Not Educated
+1,49,Fail,Not Educated
+2,69,Fail,High School
+6,87,High,Not Educated
+2,70,Fail,College
